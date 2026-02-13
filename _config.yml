@@ -35,10 +35,10 @@ social:
   email: gbarranco3@gatech.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    -  # change to your Twitter homepage
+    # change to your Twitter homepage
     - https://github.com/gbarranc  # change to your GitHub homepage
     # Uncomment below to add more social links
-    - www.linkedin.com/in/gael-barranco-6570a5256
+    - https://www.linkedin.com/in/gael-barranco-6570a5256
 
 # Site Verification Settings
 webmaster_verifications:
